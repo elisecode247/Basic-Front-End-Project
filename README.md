@@ -1,7 +1,7 @@
 # Free Code Camp Front End Project Starter
 ---
 ## Overview
-A project starter for Free Code Camp front end projects. Try practicing in a different environment (instead of CodePen).
+A project starter for Free Code Camp front end projects. Try practicing in a different environment (instead of CodePen). Here's a [video](https://youtu.be/B8DvAis_jaQ) demonstrating all the steps below.
 
 ## Prerequisites
 Install the following:
@@ -15,7 +15,7 @@ Install the following:
 3. Open up the Terminal* and ```cd``` into the folder
 4. In the Terminal, enter: ```npm install```.
 5. In the Terminal, enter: ```npm start```.
-6. Open up your code editor and begin coding!
+6. Open up your code editor and begin coding. Every time you save your file, your browser refreshes, just like CodePen.
 
 *For Windows users, it's called "Command Prompt".
 
@@ -28,7 +28,7 @@ Free Code Camp wants the url to your CodePen. Well, you can copy and paste.
 4. Click on the settings button next to the HTML editor to open up the Pen Settings.
 5. Click "Insert the most common viewport meta tag"
 6. Click on "JavaScript" in the Pen Settings. Next to "Quick-add", choose "jQuery."*
-7. Click on "CSS" in the Pen Settings. Next to "Quick-add", choose "Bootstrap."
+7. *Repeat step 6 except choose "Bootstrap".
 8. Check to make sure everything is working, then submit to Free Code Camp.
 
 *jQuery has to be first because Boostrap.js uses jQuery.
