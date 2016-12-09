@@ -20,7 +20,7 @@ Install the following:
 *For Windows users, it's called "Command Prompt".
 
 ## Submitting Your Project to Free Code Camp
-Free Code Camp wants the url to your CodePen. Well, you can copy and paste.
+Free Code Camp wants the url to your project. You can copy and paste into CodePen.
 
 1. From the index.html file, copy everything inside ```<body> </body>``` excluding all the ```<script> </script>``` code and paste in CodePen's HTML editor.
 2. From the styles.css file, copy everything and paste in CodePen's CSS editor.
