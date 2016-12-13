@@ -1,18 +1,30 @@
 {
   "name": "fcc-front-end-project-starter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Starter project for Free Code Camp front end projects",
   "scripts": {
     "start": "gulp"
   },
   "author": "elisecode247",
   "license": "ISC",
   "devDependencies": {
+    "bower": "^1.8.0",
     "browser-sync": "^2.18.2",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "wiredep": "^4.0.0"
   },
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.1.1"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IOAyman/Basic-Front-End-Project.git"
+  },
+  "keywords": [
+    "fcc",
+    "frontend"
+  ],
+  "bugs": {
+    "url": "https://github.com/IOAyman/Basic-Front-End-Project/issues"
+  },
+  "homepage": "https://github.com/IOAyman/Basic-Front-End-Project#readme"
 }

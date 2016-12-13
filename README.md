@@ -7,6 +7,7 @@ A project starter for Free Code Camp front end projects. Try practicing in a dif
 Install the following:
 
 * [Node.js](https://nodejs.org/en/download/) (Node has npm)
+* [bower](https://bower.io) (Node has npm)
 * A code editor or IDE (examples: Atom, Brackets, Sublime)
 
 ## Getting Started

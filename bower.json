@@ -1,0 +1,25 @@
+{
+  "name": "fcc-front-end-project-starter",
+  "description": "Starter project for Free Code Camp front end projects",
+  "main": "index.js",
+  "authors": [
+    "elisecode247"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "fcc",
+    "frontend"
+  ],
+  "homepage": "https://github.com/IOAyman/Basic-Front-End-Project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
