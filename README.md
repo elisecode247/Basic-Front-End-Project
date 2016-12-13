@@ -20,15 +20,6 @@ Install the following:
 
 *For Windows users, it's called "Command Prompt".
 
-## Added new frontend dependencies
-```bash
-bower install --save library
-```
-## Added new backend dependencies
-```bash
-npm install --save library
-```
-
 ## Submitting Your Project to Free Code Camp
 Free Code Camp wants the url to your project. You can copy and paste into CodePen.
 

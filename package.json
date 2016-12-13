@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "Starter project for Free Code Camp front end projects",
   "scripts": {
-    "postinstall": "bower install",
     "start": "gulp"
   },
   "author": "elisecode247",
