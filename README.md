@@ -7,6 +7,7 @@ A project starter for Free Code Camp front end projects. Try practicing in a dif
 Install the following:
 
 * [Node.js](https://nodejs.org/en/download/) (Node has npm)
+* [bower](https://bower.io) (Node has npm)
 * A code editor or IDE (examples: Atom, Brackets, Sublime)
 
 ## Getting Started
@@ -18,6 +19,15 @@ Install the following:
 6. Open up your code editor and begin coding. Every time you save your file, your browser refreshes, just like CodePen.
 
 *For Windows users, it's called "Command Prompt".
+
+## Added new frontend dependencies
+```bash
+bower install --save library
+```
+## Added new backend dependencies
+```bash
+npm install --save library
+```
 
 ## Submitting Your Project to Free Code Camp
 Free Code Camp wants the url to your project. You can copy and paste into CodePen.
