@@ -1,22 +1,29 @@
 # Free Code Camp Front End Project Starter
 ---
 ## Overview
-A project starter for Free Code Camp front end projects. Try practicing in a different environment (instead of CodePen). Here's a [video](https://youtu.be/B8DvAis_jaQ) demonstrating all the steps below.
+A project starter for Free Code Camp front end projects. Try practicing in the local environment (instead of CodePen). Here's a [video](https://youtu.be/B8DvAis_jaQ) demonstrating all the steps below.
 
 ## Prerequisites
 Install the following:
 
 * [Node.js](https://nodejs.org/en/download/) (Node has npm)
-* [bower](https://bower.io) (Node has npm)
-* A code editor or IDE (examples: Atom, Brackets, Sublime)
+* [bower](https://bower.io)
+* [git](https://git-scm.com/)
+* A code editor or IDE (examples: Atom, Brackets, Sublime, Visual Studio Code)
 
 ## Getting Started
 1. Click the green button "Clone or download" and click "Download Zip"
 2. Extract the zip file to where you want it on your computer
 3. Open up the Terminal* and ```cd``` into the folder
 4. In the Terminal, enter: ```npm install```.
-5. In the Terminal, enter: ```npm start```.
-6. Open up your code editor and begin coding. Every time you save your file, your browser refreshes, just like CodePen.
+5. In the Terminal, enter: ```bower install```.
+6. In the Terminal, enter: ```npm start```.
+7. Open up your code editor and begin coding. Every time you save your file, your browser refreshes, just like CodePen. 
+
+## Usage
+1. Open up the Terminal and ```cd``` into the folder.
+2. In the Terminal, enter: ```npm start```.
+3. Begin coding. 
 
 *For Windows users, it's called "Command Prompt".
 
